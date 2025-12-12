@@ -1,6 +1,6 @@
 # Yar22.github.io
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Мой учебный сайт</title>
