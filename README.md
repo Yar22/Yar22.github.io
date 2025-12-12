@@ -1,1 +1,21 @@
 # Yar22.github.io
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой учебный сайт</title>
+    <!-- Сюда вставите код Яндекс.Метрики -->
+</head>
+<body>
+    <h1>Услуги по ремонту ноутбуков</h1>
+    <p>Быстро и недорого починим любую поломку.</p>
+    <button id="orderButton">Заказать звонок</button> <!-- Кнопка для цели -->
+    <script>
+        // Простейший скрипт для цели в Метрике
+        document.getElementById('orderButton').addEventListener('click', function() {
+            alert('Спасибо! Мы вам перезвоним.'); // Это для наглядности
+            // Здесь позже будет код цели Яндекс.Метрики
+        });
+    </script>
+</body>
+</html>
